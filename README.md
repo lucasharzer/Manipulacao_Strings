@@ -16,6 +16,10 @@ python python/main.py
 
 - Java
 ```bash
+javac Main.java Variavel.java
+``` 
+
+```bash
 java java/Main
 ```
 
